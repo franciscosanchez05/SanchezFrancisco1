@@ -10,9 +10,11 @@ El documento sirve como ejemplo de un `README.md` **bien estructurado**, claro y
 |Ruta     |Descripcion                 |
 --------------------------------------
 |/src     | Codigo fuente del proyecto |
-|_________|____________________________|
+--------------------------------------
 |/docs    |Dodumentacion adicional     |
+--------------------------------------
 |/assets  | Imagenes y recursos        |
+_______________________________________
 |README.md|Dodumentacion principal     |
 
 ## Instalacion
