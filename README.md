@@ -8,15 +8,11 @@ El documento sirve como ejemplo de un `README.md` **bien estructurado**, claro y
 > Este proyecto no tiene funcionalidad real. Su finalidad es didáctica
 ## Estructura del repositorio
 |Ruta     |Descripcion                 |
-----------------------------------------
-/src     / Codigo fuente del proyecto 
-________________________________________
-/docs    /Dodumentacion adicional     
-________________________________________
-/assets  / Imagenes y recursos        
-________________________________________
-README.md/Dodumentacion principal     
-________________________________________
+--------------------------------------
+|/src     | Codigo fuente del proyecto |
+|/docs    |Dodumentacion adicional     |
+|/assets  | Imagenes y recursos        |
+|README.md|Dodumentacion principal     |
 
 ## Instalacion
 1. Clona el repositorio
