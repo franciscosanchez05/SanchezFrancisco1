@@ -10,11 +10,15 @@ El documento sirve como ejemplo de un `README.md` **bien estructurado**, claro y
 |Ruta     |Descripcion                 |
 ----------------------------------------
 |/src     | Codigo fuente del proyecto |
+________________________________________
 |/docs    |Dodumentacion adicional     |
+________________________________________
 |/assets  | Imagenes y recursos        |
+________________________________________
 |README.md|Dodumentacion principal     |
+________________________________________
 
 ## Instalacion
 1. Clona el repositorio
 
-[git clone] (https://github.com/usuario/repositorio.git)
+git clone https://github.com/usuario/repositorio.git
