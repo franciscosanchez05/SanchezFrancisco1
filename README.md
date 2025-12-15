@@ -9,13 +9,13 @@ El documento sirve como ejemplo de un `README.md` **bien estructurado**, claro y
 ## Estructura del repositorio
 |Ruta     |Descripcion                 |
 ----------------------------------------
-/src     | Codigo fuente del proyecto 
+/src     / Codigo fuente del proyecto 
 ________________________________________
-/docs    |Dodumentacion adicional     
+/docs    /Dodumentacion adicional     
 ________________________________________
-/assets  | Imagenes y recursos        
+/assets  / Imagenes y recursos        
 ________________________________________
-README.md|Dodumentacion principal     
+README.md/Dodumentacion principal     
 ________________________________________
 
 ## Instalacion
