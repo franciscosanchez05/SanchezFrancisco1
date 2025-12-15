@@ -14,8 +14,9 @@ El documento sirve como ejemplo de un `README.md` **bien estructurado**, claro y
 |/docs    |Dodumentacion adicional     |
 --------------------------------------
 |/assets  | Imagenes y recursos        |
-_______________________________________
+--------------------------------------
 |README.md|Dodumentacion principal     |
+--------------------------------------
 
 ## Instalacion
 1. Clona el repositorio
